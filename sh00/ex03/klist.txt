@@ -1,0 +1,6 @@
+Credentials cache: API:D3987FCD-2283-4306-9AE7-A85B3CF7E2EB
+        Principal: lgrillon@42.FR
+
+  Issued                Expires               Principal
+Sep  9 19:25:23 2020  Sep 16 19:25:23 2020  krbtgt/42.FR@42.FR
+Sep  9 19:25:24 2020  Sep 16 19:25:23 2020  HTTP/student-storage-2.42.fr@42.FR
